@@ -1,0 +1,5 @@
+_atr = TAAB_ATR(14);
+_sar = TAAB_SAR(0.2,0.02);
+
+//Plot(_atr,"TAAB_ATR",colorRed);
+Plot(_sar,"TAAB_SAR",colorGreen);
